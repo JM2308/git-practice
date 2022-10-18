@@ -1,0 +1,51 @@
+    1  git remote add origin https://github.com/JM2308/LandscapeArchitecture
+    2  git remote add origin https://github.com/JM2308/LandscapeArchitecture.git
+    3  git remote add origin https://github.com/awholeneworld/LandscapeArchitecture
+    4  git remote add origin https://github.com/awholeneworld/LandscapeArchitecture.git
+    5  git init
+    6  git remote add origin https://github.com/awholeneworld/LandscapeArchitecture.git
+    7  git add
+    8  git commit -m "defalut"
+    9  git push -u origin master
+   10  pwd
+   11  $pwd
+   12  pwd
+   13  ls
+   14  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+   15  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+   16  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+   17  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh
+   18  nvm install --lts
+   19  nano new_words.txt
+   20  nano new_words.txt
+   21  ls -lha
+   22  cd .
+   23  cd Users
+   24  ls
+   25  cd OneDrive/
+   26  ls
+   27  cd  바탕 화면
+   28  cd '바탕 화면'
+   29  ls
+   30  cd 수업/
+   31  ls
+   32  cd '4학년 2학기'
+   33  cd '오픈소스 SW'
+   34  ls
+   35  cd Lab/
+   36  nano new_words.txt
+   37  ls -lh >> file_list.txt
+   38  cat file_list.txt
+   39  cat words.txt
+   40  nano words.txt
+   41  nano words.txt
+   42  sort < words.txt > sorted_words.txt
+   43  cat sorted_words.txt
+   44  ls -lh | less
+   45  ls -l --reverse --human-readable
+   46  chmod 644 words.txt
+   47  ls -lh
+   48  nano myscript.s
+   49  nano myscript.sh
+   50  sh myscript.sh
+   51  history > history_command.txt
